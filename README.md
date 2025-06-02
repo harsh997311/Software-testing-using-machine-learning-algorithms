@@ -1,7 +1,7 @@
 # Software-testing-using-machine-learning-algorithms
 This project aims to predict software quality using various machine learning algorithms such as Decision Trees, Random Forests, Logistic Regression, and CNNs. It analyzes software metrics to improve prediction accuracy and help developers identify quality issues early.
 
-// Project Objective
+[Project Objective]
 To build a predictive model that estimates software quality based on static code attributes (complexity, cohesion, coupling, etc.) using machine learning algorithms and ensemble techniques.
 
 # Technologies Used
